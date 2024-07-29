@@ -1,0 +1,8 @@
+.inner-container h1 {
+    text-align: center;
+}
+input.logout-btn {
+    /* list-style: none; */
+    background: none;
+    border: none;
+}
